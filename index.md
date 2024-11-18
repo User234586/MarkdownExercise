@@ -8,7 +8,7 @@ Addded Heading
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
-
+added sample code
 
 ``` javascript
 var myVar = "Hello, world!";
